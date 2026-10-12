@@ -101,3 +101,7 @@ Documentation and connection details for the hosted Quotelyfy MCP server. The se
 itself is a managed service; there is no source to install here, which is the normal
 shape for a remote MCP connector. The documentation in this repository is MIT licensed;
 the Quotelyfy service itself is proprietary and governed by its own terms.
+
+
+## Anthropic badge
+<a href="https://www.claudeai.directory/launches/quotelyfy" target="_blank" rel="noopener"><img src="https://www.claudeai.directory/badge/quotelyfy" alt="Quotelyfy - Listed on Claude AI Directory" width="220" height="54" /></a>
